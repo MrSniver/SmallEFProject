@@ -1,0 +1,17 @@
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Infrastructure\bin\Debug\net8.0\WorkerManagementApi.Infrastructure.deps.json
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Infrastructure\bin\Debug\net8.0\WorkerManagementApi.Infrastructure.dll
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Infrastructure\bin\Debug\net8.0\WorkerManagementApi.Infrastructure.pdb
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Infrastructure\bin\Debug\net8.0\WorkerManagementApi.Application.dll
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Infrastructure\bin\Debug\net8.0\WorkerManagementApi.Domain.dll
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Infrastructure\bin\Debug\net8.0\WorkerManagementApi.Application.pdb
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Infrastructure\bin\Debug\net8.0\WorkerManagementApi.Domain.pdb
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Infrastructure\obj\Debug\net8.0\WorkerManagementApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Infrastructure\obj\Debug\net8.0\WorkerManagementApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Infrastructure\obj\Debug\net8.0\WorkerManagementApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Infrastructure\obj\Debug\net8.0\WorkerManagementApi.Infrastructure.AssemblyInfo.cs
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Infrastructure\obj\Debug\net8.0\WorkerManagementApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Infrastructure\obj\Debug\net8.0\WorkerMa.23C74317.Up2Date
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Infrastructure\obj\Debug\net8.0\WorkerManagementApi.Infrastructure.dll
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Infrastructure\obj\Debug\net8.0\refint\WorkerManagementApi.Infrastructure.dll
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Infrastructure\obj\Debug\net8.0\WorkerManagementApi.Infrastructure.pdb
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Infrastructure\obj\Debug\net8.0\ref\WorkerManagementApi.Infrastructure.dll

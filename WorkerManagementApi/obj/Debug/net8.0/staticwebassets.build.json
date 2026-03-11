@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kAiDjU8AO/u2L7y1kbLmkuKRaRwVu50hBeHAkZQ+ryY=",
+  "Source": "WorkerManagementApi",
+  "BasePath": "_content/WorkerManagementApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

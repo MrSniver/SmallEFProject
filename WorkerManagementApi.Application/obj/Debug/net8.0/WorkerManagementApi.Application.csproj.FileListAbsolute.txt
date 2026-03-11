@@ -1,0 +1,15 @@
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Application\bin\Debug\net8.0\WorkerManagementApi.Application.deps.json
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Application\bin\Debug\net8.0\WorkerManagementApi.Application.dll
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Application\bin\Debug\net8.0\WorkerManagementApi.Application.pdb
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Application\bin\Debug\net8.0\WorkerManagementApi.Domain.dll
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Application\bin\Debug\net8.0\WorkerManagementApi.Domain.pdb
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Application\obj\Debug\net8.0\WorkerManagementApi.Application.csproj.AssemblyReference.cache
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Application\obj\Debug\net8.0\WorkerManagementApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Application\obj\Debug\net8.0\WorkerManagementApi.Application.AssemblyInfoInputs.cache
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Application\obj\Debug\net8.0\WorkerManagementApi.Application.AssemblyInfo.cs
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Application\obj\Debug\net8.0\WorkerManagementApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Application\obj\Debug\net8.0\WorkerMa.F0242FFA.Up2Date
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Application\obj\Debug\net8.0\WorkerManagementApi.Application.dll
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Application\obj\Debug\net8.0\refint\WorkerManagementApi.Application.dll
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Application\obj\Debug\net8.0\WorkerManagementApi.Application.pdb
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Application\obj\Debug\net8.0\ref\WorkerManagementApi.Application.dll

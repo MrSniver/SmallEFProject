@@ -1,0 +1,12 @@
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Domain\bin\Debug\net8.0\WorkerManagementApi.Domain.deps.json
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Domain\bin\Debug\net8.0\WorkerManagementApi.Domain.dll
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Domain\bin\Debug\net8.0\WorkerManagementApi.Domain.pdb
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Domain\obj\Debug\net8.0\WorkerManagementApi.Domain.csproj.AssemblyReference.cache
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Domain\obj\Debug\net8.0\WorkerManagementApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Domain\obj\Debug\net8.0\WorkerManagementApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Domain\obj\Debug\net8.0\WorkerManagementApi.Domain.AssemblyInfo.cs
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Domain\obj\Debug\net8.0\WorkerManagementApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Domain\obj\Debug\net8.0\WorkerManagementApi.Domain.dll
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Domain\obj\Debug\net8.0\refint\WorkerManagementApi.Domain.dll
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Domain\obj\Debug\net8.0\WorkerManagementApi.Domain.pdb
+C:\Users\Kasper\Desktop\Projekt\WorkerManagementApp\WorkerManagementApi.Domain\obj\Debug\net8.0\ref\WorkerManagementApi.Domain.dll
